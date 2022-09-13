@@ -1,0 +1,27 @@
+.nav-bar {
+  border: 1px solid red;
+  margin: 10px;
+  text-align: center;
+  outline: 2px solid blue;
+}
+.article-section {
+  width: 200px;
+  height: auto;
+  background: rgb(174, 167, 167);
+  float: right;
+}
+.aside-section {
+  width: 200px;
+  height: auto;
+  background: rgb(174, 167, 167);
+  float: left;
+}
+p {
+  padding: 10px;
+}
+.section-1 {
+  width: 100%;
+}
+.section-2 {
+  padding-top: 185px;
+}
